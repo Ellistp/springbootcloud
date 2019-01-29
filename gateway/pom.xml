@@ -14,6 +14,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>${project.artifactId}</name>
+    <description>gateway - 代理所有微服务的接口网关</description>
 
     <dependencies>
         <dependency>
